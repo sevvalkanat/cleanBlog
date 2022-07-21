@@ -1,0 +1,35 @@
+{
+  "name": "sevval",
+  "version": "1.0.0",
+  "description": "cleanBlog",
+  "main": "app.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sevvalkanat/cleanBlog.git"
+  },
+  "keywords": [
+    "01012580"
+  ],
+  "author": "şevval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sevvalkanat/cleanBlog/issues"
+  },
+  "homepage": "https://github.com/sevvalkanat/cleanBlog#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "prettier": "2.7.1"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+    
+
+
+    
+  }
+}
